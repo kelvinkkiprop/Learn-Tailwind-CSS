@@ -1,0 +1,12 @@
+TAILWINDCSS
+A. Installation
+    npm init -y
+    npm i tailwindcss
+
+B. Create Default CSS file
+    1. Add below line to package to json
+    "build:css": "tailwind build src/style.css -o dist/main.css"
+    2. Run below line on the terminal
+    npm run build:css
+
+
