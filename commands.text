@@ -9,4 +9,7 @@ B. Create Default CSS file
     2. Run below line on the terminal
     npm run build:css
 
+C. Create your configuration file
+    npx tailwindcss init
+
 
